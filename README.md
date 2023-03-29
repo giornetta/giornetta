@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Michele! 👋
+
+I'm a **Computer Science & Engineering** Student at **Politecnico di Milano**.
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 **giornetta/giornetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
