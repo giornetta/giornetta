@@ -1,4 +1,4 @@
-### Hi, I'm Michele! 👋
+## Hi, I'm Michele! 👋
 
 I'm a **Computer Science & Engineering** Student at **Politecnico di Milano**.
 
@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+
+- **Vulture** is a Vulkan Game Engine developed from scratch using C++. I built it with a friend during our Master's *Computer Graphics* course at *Politecnico di Milano*. Alongside the engine, we developed a small game to showcase its possibilities and features.
+  - [Link to Repository](https://github.com/darkhole22/computer-graphics-project-2023)
