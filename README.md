@@ -10,7 +10,7 @@ I'm a **Computer Science & Engineering** Student at **Politecnico di Milano**.
 ## Projects
 
 - Currently leading the development of **Rum 'n' Gun** - a first person action game - for the *Videogame Design and Programming* course at *Politecnico di Milano*.
- - The first prototype of the game is available on [itch.io](https://polimi-game-collective.itch.io/rum-n-gun).
+  - The first prototype of the game is available on [itch.io](https://polimi-game-collective.itch.io/rum-n-gun).
 
 - [Vulture](https://github.com/giornetta/vulture) is a Vulkan Game Engine developed from scratch using C++. I built it with a friend during our Master's *Computer Graphics* course at *Politecnico di Milano*. Alongside the engine, we developed a small game to showcase its possibilities and features.
 
