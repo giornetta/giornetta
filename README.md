@@ -1,6 +1,6 @@
 # Hi, I'm Michele! 👋
 
-I'm a **MSc Computer Science & Engineering** Student at **Politecnico di Milano**.
+I'm an **MSc Computer Science & Engineering** Student at **Politecnico di Milano**.
 
 I started programming in middle school, fascinated by video game development. Since then, I've explored many fields, becoming versatile and comfortable learning new languages, paradigms, and frameworks.
 
