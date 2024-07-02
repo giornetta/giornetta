@@ -9,7 +9,7 @@ I started programming in middle school, fascinated by videogame development. Sin
 Here's a short list of some of the things I've worked on in the past few years:
 
 - Led the development of [**Rum 'n' Gun**](https://polimi-game-collective.itch.io/rum-n-gun) - a first person action platformer game - for the *Videogame Design and Programming* course at *Politecnico di Milano*.
-  - [![Watch the Rum 'n' Gun Trailer](https://img.youtube.com/vi/p4xzPLKBvd8/0.jpg)](https://www.youtube.com/watch?v=p4xzPLKBvd8)
+  - You can watch a short gameplay trailer [here](https://www.youtube.com/watch?v=p4xzPLKBvd8)!
   - The beta release, created in around three months, is available for Windows, Linux and Mac OS on [itch.io](https://polimi-game-collective.itch.io/rum-n-gun), try it out!
 
 - [Vulture](https://github.com/giornetta/vulture) is a Vulkan Game Engine developed from scratch using C++. I built it with a friend during our Master's *Computer Graphics* course at *Politecnico di Milano*. Alongside the engine, we developed a small game to showcase its possibilities and features.
@@ -45,6 +45,7 @@ Here are some of the tools and technologies I enjoy using when working on backen
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
