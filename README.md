@@ -2,9 +2,11 @@
 
 I'm a **MSc Computer Science & Engineering** Student at **Politecnico di Milano**.
 
-I started programming in middle school, fascinated by videogame development. Since then, I've explored many fields, becoming versatile and comfortable learning new languages, paradigms, and frameworks.
+I started programming in middle school, fascinated by video game development. Since then, I've explored many fields, becoming versatile and comfortable learning new languages, paradigms, and frameworks.
 
-I am currently expanding my knowledge in Game Development, with a particular focus on Systems, AI, and Gameplay Programming. Additionally, I am studying best practices, tools, and software architectures for microservice development, with a focus on Cloud Native technologies.
+I’m currently studying best practices, patterns, and tools for microservice development with Cloud Native technologies, including event-driven architecture with Kafka and distributed tracing and monitoring with Jaeger and Prometheus, mostly using Go and C# as my primary programming languages.
+
+Additionally, I'm expanding my skills in Game Development, focusing on Systems, AI, and Gameplay Programming using Unity and Unreal Engine 5.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelegiornetta/)
 
