@@ -14,7 +14,7 @@ Here's a short list of some of the things I've worked on in the past few years:
 
 - [Vulture](https://github.com/giornetta/vulture) is a Vulkan Game Engine developed from scratch using C++. I built it with a friend during our Master's *Computer Graphics* course at *Politecnico di Milano*. Alongside the engine, we developed a small game to showcase its possibilities and features.
 
-- [Traveller Bot](https://github.com/giornetta/travellerbot) is a Telegram bot which let's you play the Traveller RPG game with your Telegram friends. It was developed with two friends of mine as a project during our *Bachelor's degree* at *Politecnico di Milano*
+- [Traveller Bot](https://github.com/giornetta/travellerbot) is a Telegram bot which let's you play the classic Traveller RPG game with your Telegram friends. It was developed with two friends of mine as a project during our *Bachelor's degree* at *Politecnico di Milano*.
  
 - [Watchazon](https://github.com/giornetta/watchazon) is a Telegram bot that can scrape Amazon and notify you when items you're interested in go on sale! I developed it as a personal project during my *high school* years.
 
