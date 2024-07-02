@@ -9,7 +9,8 @@ I started programming in middle school, fascinated by videogame development. Sin
 Here's a short list of some of the things I've worked on in the past few years:
 
 - Led the development of [**Rum 'n' Gun**](https://polimi-game-collective.itch.io/rum-n-gun) - a first person action platformer game - for the *Videogame Design and Programming* course at *Politecnico di Milano*.
-  - The beta release, created in around three months, is available on [itch.io](https://polimi-game-collective.itch.io/rum-n-gun).
+  - [![Watch the Rum 'n' Gun Trailer](https://img.youtube.com/vi/p4xzPLKBvd8/0.jpg)](https://www.youtube.com/watch?v=p4xzPLKBvd8)
+  - The beta release, created in around three months, is available for Windows, Linux and Mac OS on [itch.io](https://polimi-game-collective.itch.io/rum-n-gun), try it out!
 
 - [Vulture](https://github.com/giornetta/vulture) is a Vulkan Game Engine developed from scratch using C++. I built it with a friend during our Master's *Computer Graphics* course at *Politecnico di Milano*. Alongside the engine, we developed a small game to showcase its possibilities and features.
 
