@@ -4,6 +4,10 @@ I'm a **MSc Computer Science & Engineering** Student at **Politecnico di Milano*
 
 I started programming in middle school, fascinated by videogame development. Since then, I've explored many fields, becoming versatile and comfortable learning new languages, paradigms, and frameworks.
 
+I am currently expanding my knowledge in Game Development, with a particular focus on Systems, AI, and Gameplay Programming. Additionally, I am studying best practices, tools, and software architectures for microservice development, with a focus on Cloud Native technologies.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelegiornetta/)
+
 ## Projects
 
 Here's a short list of some of the things I've worked on in the past few years:
