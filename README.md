@@ -8,6 +8,8 @@ I’m currently studying best practices, patterns, and tools for microservice de
 
 Additionally, I'm expanding my skills in Game Development, focusing on Systems, AI, and Gameplay Programming using Unity and Unreal Engine 5.
 
+I'm an avid reader of essays, novels, and manga, a gamer, and I enjoy learning languages in my free time, such as Mandarin.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelegiornetta/)
 
 ## Projects
