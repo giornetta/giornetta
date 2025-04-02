@@ -1,6 +1,6 @@
 # Hi, I'm Michele! 👋
 
-I'm an **MSc Computer Science & Engineering** Graduate at **Politecnico di Milano**, currently working as a **Go Developer Intern** at [Civo](https://civo.com).
+I'm **Software Engineer** working with **Go** and **Kubernetes** at [Civo](https://civo.com).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelegiornetta/)
 
