@@ -8,6 +8,8 @@ I'm **Software Engineer** working with **Go** and **Kubernetes** at [Civo](https
 
 Here's a short list of some of the things I've worked on in the past few years:
 
+- [GoPAPAGENO](https://github.com/giornetta/gopapageno) is a parallel parser generator based on *Floyd's Operator Precedence Grammars] I developed during my Master's Thesis.
+
 - Led the development of [**Rum 'n' Gun**](https://polimi-game-collective.itch.io/rum-n-gun) - a first person action platformer game - for the *Videogame Design and Programming* course at *Politecnico di Milano*.
   - You can watch a short gameplay trailer [here](https://www.youtube.com/watch?v=p4xzPLKBvd8)!
   - The beta release, created in around three months, is available for Windows, Linux and Mac OS on [itch.io](https://polimi-game-collective.itch.io/rum-n-gun), try it out!
